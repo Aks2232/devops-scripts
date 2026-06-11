@@ -1,0 +1,12 @@
+2026-05-29 10:00:01 INFO Server started on port 80
+2026-05-29 10:00:05 INFO User login: akshay from 103.153.104.84
+2026-05-29 10:01:12 WARNING High memory usage: 85%
+2026-05-29 10:02:30 ERROR Database connection failed
+2026-05-29 10:02:35 ERROR Retry attempt 1 failed
+2026-05-29 10:02:40 INFO Database connection restored
+2026-05-29 10:05:00 INFO User login: viewer from 192.168.1.50
+2026-05-29 10:06:22 WARNING Disk usage at 90%
+2026-05-29 10:07:00 ERROR Permission denied for user: junior-dev
+2026-05-29 10:08:15 INFO Backup completed successfully
+2026-05-29 10:10:00 WARNING CPU usage at 92%
+2026-05-29 10:12:00 ERROR S3 upload failed: bucket not found
