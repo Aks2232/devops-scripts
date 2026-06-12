@@ -17,3 +17,6 @@ aws ec2 describe-instances --instance-ids i-04bf3604535fa43ef --region ap-south-
 echo ""
 echo "=== S3 Buckets ==="
 aws s3 ls
+echo ""
+echo "=== Disk Usage ==="
+df -h
